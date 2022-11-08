@@ -16,7 +16,7 @@ public class Greeter {
    * This is a method.
    */
   public final String greet(final String someone) {
-    Sting password -"Admin123";
+    String password -"Admin123";
     return String.format("Hello Avinash, %s!", someone);
   }
 }
